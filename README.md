@@ -26,4 +26,16 @@ Como adicionar uma imagem:
 Logo do IFC: ![Logo do Instituto Federal](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhQ36baaowL5-CgufOuOqBtkuDzsYuUkXYcCH64VzKQ&s)
 ![instituto-federal-catarinense-ifc-logo](https://github.com/professorTiagoFunk/aulasINFO21A/assets/144853100/8c9a9f42-282c-4fca-900d-160832ce523e)
 
-Link: {Site do IFC}(https://ifc.edu.br/)
+Link: [Site do IFC](https://ifc.edu.br/)
+
+Código na mesma linha: `System.out.println();`
+
+Bloco de código:
+
+```
+  System.out.println();
+  if( a==1 ) {
+  System.out.println():
+}
+```
+
